@@ -36,3 +36,5 @@ https://www.vdma.org/corona
 https://www.apotheke-adhoc.de/nc/nachrichten/coronavirus/
 
 https://www.gruenderlexikon.de/news/kurz-notiert/kinderbetreuung-in-der-coronakrise-welche-rechte-haben-selbststaendig-und-freiberufler-84233715
+
+https://www.tichyseinblick.de/?s=Corona

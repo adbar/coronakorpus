@@ -164,4 +164,15 @@ https://www.perlentaucher.de/9punkt/2020-05-06.html
 https://www.perlentaucher.de/9punkt/2020-04-08.html
 
 
+LEICHTE SPRACHE
+https://www.mdr.de/barrierefreiheit/leichte-sprache/mdr-barrierefreiheit-coronavirus-infos-leichte-sprache-100.html
+https://www.spektrum.de/news/wie-schuetzt-man-sich-vor-corona-wichtige-fragen-und-antworten/1713558
+
+
+
+// zu Coronaausweis:
+https://ubirch.de/newsroom/pressemitteilung-detail?tx_dbnews_pressreleases%5Baction%5D=showPressrelease&tx_dbnews_pressreleases%5Bcontroller%5D=Item&tx_dbnews_pressreleases%5Bitem%5D=175&cHash=adce3bdb9ce7b77cbf4bbf22f5131061
+https://netzpolitik.org/2020/normalitaetsversprechen-via-blockchain/
+https://www.sueddeutsche.de/politik/coronavirus-immunitaetsausweis-regierung-1.4892945
+
 
