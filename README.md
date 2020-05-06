@@ -2,15 +2,15 @@ Material zum Aufbau eines deutschsprachigen COVID-19-Webkorpus
 --------------------------------------------------------------
 
 
-Die folgende Linksammlung fokussiert auf Webseiten auf Deutsch zur COVID-19-Pandemie (u.a. aus einer erkenntnistheoretischen, gesellschaftlichen, politischen und wirtschaftlichen Perspektive) und zum Virus (u.a. aus medizinischer Sicht).
+Diese Linksammlung fokussiert auf deutschsprachige Webseiten zur COVID-19-Pandemie (u.a. aus einer erkenntnistheoretischen, gesellschaftlichen, politischen und wirtschaftlichen Perspektive) und zum Virus (u.a. aus medizinischer Sicht).
 
-Auf des Basis dieses Materials wird eine Sammlung von Webdokumenten erstellt, die der Öffentlichkeit zugänglich gemacht wird:
+Auf Basis des zusammengetragenen Materials wird eine Sammlung von Webdokumenten erstellt, die der Öffentlichkeit zugänglich gemacht wird:
 
-- Das linguistisch aufbereitete Korpus kann online abgefragt werden: *Link kommt* (nach einer einfachen Anmeldung).
-- Die Daten können auch lokal heruntergeladen und verarbeitet werden: [Tutorial: Gathering a custom web corpus](https://trafilatura.readthedocs.io/en/latest/tutorial0.html).
+- Das linguistisch aufbereitete Korpus kann online abgefragt werden: [dwds.de](http://zwei.dwds.de/d/k-web#corona) (nach einer einfachen Anmeldung / bisher nur intern verfügbar).
+- Die Quellen können auch heruntergeladen und verarbeitet werden: [Tutorial: Gathering a custom web corpus](https://trafilatura.readthedocs.io/en/latest/tutorial0.html).
 
 
-Hinweise auf neue Textressourcen und Webseiten werden gerne entgegengenommen: siehe [Hilfeseite](contributing.md).
+Hinweise auf neue Textressourcen und Webseiten werden [gerne entgegengenommen](contributing.md).
 
 
 

@@ -2,7 +2,7 @@
 
 Thank you for considering contributing to this list!
 
-Vielen Dank schon mal im Voraus für eure/Ihre Hinweise!
+Vielen Dank im Voraus für eure/Ihre Hinweise!
 
 
 Als Gedächtnisstütze könnten Ihre/eure „Browserverläufe“ eine nützliche und für dieses Unterfangen hilfreiche Quelle sein. Wie man Browserverläufe für verschiedene Browsertypen anzeigen lassen kann, wird auf den folgenden Seiten erklärt:
@@ -18,7 +18,7 @@ Ihre/Eure einschlägigen Links/URLs könnt ihr/können Sie:
 - in das Board/in den Notizblock eintragen [https://board.net/p/coronakorpus](https://board.net/p/coronakorpus) (ohne Anmeldung, einfache Liste),
 - oder als „[Pull request](https://de.wikipedia.org/wiki/Pull_Request)“ einreichen (nach Anmeldung, umfangreiche Gestaltung).
 
-Es folgt eine Einleitung zu Pull requests.
+Es folgt eine Einleitung zu *Pull requests*.
 
 
 ## Basic information
