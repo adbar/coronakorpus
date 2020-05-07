@@ -3,6 +3,32 @@ Sonstiges
 
 
 
+
+
+https://www.oetk.at/news/coronavirus/fakten/
+https://www.oetk.at/news/coronavirus/begriffe/
+https://www.oetk.at/news/coronavirus/mythen/
+https://www.oetk.at/news/coronavirus/corona-app/
+https://www.oetk.at/news/coronavirus/desinfektionsmittel/
+https://www.oetk.at/news/coronavirus/ffp-atemschutzmaske/
+https://www.oetk.at/news/coronavirus/mund-nasen-schutz/
+https://www.oetk.at/news/coronavirus/symptome/
+https://www.oetk.at/news/coronavirus/schutzma%C3%9Fnahmen/
+https://www.oetk.at/news/coronavirus/ansteckung/
+
+
+
+
+https://www.sora.at/nc/news-presse/news/news-einzelansicht/news/corona-virus-dunkelziffer-1006.html
+https://www.sora.at/nc/news-presse/news/news-einzelansicht/news/anteil-an-positiven-testresultaten-leichter-anstieg-1003.html
+https://www.sora.at/nc/news-presse/news/news-einzelansicht/news/das-wechselspiel-von-relativ-und-absolut-1001.html
+https://www.sora.at/nc/news-presse/news/news-einzelansicht/news/was-wissen-wir-wirklich-1000.html
+https://www.sora.at/nc/news-presse/news/news-einzelansicht/news/flattening-the-curve-998.html
+
+
+
+
+
 ANDERE
 https://www.manager-magazin.de/politik/weltwirtschaft/coronavirus-newsblog-aktuelle-entwicklung-am-mittwoch-a-1306769.html
 https://www.mittellaendische.ch/2020/04/07/covid-19-eine-zwischenbilanz-oder-eine-analyse-der-moral-der-medizinischen-fakten-sowie-der-aktuellen-und-zuk%C3%BCnftigen-politischen-entscheidungen/
@@ -90,7 +116,7 @@ http://www.bundespraesident.de/SharedDocs/Reden/DE/Frank-Walter-Steinmeier/Reden
 https://www.krankenkassen.de/dpa/295500.html
 http://www.bmz.de/de/themen/corona/index.html
 
-https://ethercalc.org/a58b750ffc67 [das ist selbst eine Linksammlung]f
+https://ethercalc.org/a58b750ffc67 [das ist selbst eine Linksammlung]
 
 https://www.rki.de/DE/Content/Service/Publikationen/Fachwoerterbuch_Infektionsschutz.pdf?__blob=publicationFile
 https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html
