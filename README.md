@@ -11,6 +11,7 @@ Auf Basis des zusammengetragenen Materials wird eine Sammlung von Webdokumenten 
 
 Es ist uns wichtig, das Korpus so umfangreich und belastbar wie möglich zu gestalten. Deshalb ermutigen wir alle Nutzer*innen ausdrücklich dazu, uns [Hinweise zu weiteren Textressourcen zuzusenden](contributing.md).
 
+Letzter Stand: ca. 2000 Links (siehe `urls.txt`).
 
 
 ### Kontext

@@ -4,18 +4,18 @@ Linksammlung
 Die Linksammlung wird derzeit in den folgenden Rubriken unterteilt:
 
 - Meistens Online-Artikel aus
-  - [Zeitungen](Zeitungsartikel.md)
-  - [Magazinen](Magazine.md)
-  - [Nachrichtenseiten](Nachrichtenseiten.md)
-  - [Blogs](Blogartikel.md)
-- [Foren](Foren.md)
-- [Liveticker](Liveticker.md)
-- [Transkripte](Transkripte.md)
+  - [Zeitungen](Zeitungsartikel.txt)
+  - [Magazinen](Magazine.txt)
+  - [Nachrichtenseiten](Nachrichtenseiten.txt)
+  - [Blogs](Blogartikel.txt)
+- [Foren](Foren.txt)
+- [Liveticker](Liveticker.txt)
+- [Transkripte](Transkripte.txt)
 
 
 Außerdem:
 
-- [Übersichtsseiten](Übersichtsseiten.md)
-- [Sonstiges / nicht klassifiziert](Sonstiges.md)
+- [Übersichtsseiten](Übersichtsseiten.txt)
+- [Sonstiges / nicht klassifiziert](Sonstiges.txt)
 - [Tweets](Tweets.md) (externe Sammlung)
 
