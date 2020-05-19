@@ -45,3 +45,12 @@ https://the-syllabus.com/coronavirus-readings/
 https://the-politics-of-covid-19.com/search/ bzw. https://the-politics-of-covid-19.com/search/?size=n_30_n&filters%5B0%5D%5Bfield%5D=language&filters%5B0%5D%5Bvalues%5D%5B0%5D=de&filters%5B0%5D%5Btype%5D=any
 
 
+www.perlentaucher.de/stichwort/corona.html
+www.perlentaucher.de/stichwort/corona-krise.html
+www.perlentaucher.de/stichwort/coronakrise.html
+www.perlentaucher.de/stichwort/corona-tracing-app.html
+www.perlentaucher.de/stichwort/corona-tracing.html
+www.perlentaucher.de/stichwort/corona-virus.html
+www.perlentaucher.de/stichwort/coronavirus.html
+
+
