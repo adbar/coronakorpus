@@ -1,12 +1,12 @@
 Linksammlung
 ------------
 
-Die Linksammlung wird derzeit in den folgenden Rubriken unterteilt:
+Die Linksammlung wird derzeit in die folgenden Rubriken unterteilt:
 
 - Meistens Online-Artikel aus
-  - [Zeitungen](Zeitungsartikel.txt)
-  - [Magazinen](Magazine.txt)
-  - [Nachrichtenseiten](Nachrichtenseiten.txt)
+  - Zeitungen
+  - Magazinen
+  - Nachrichtenseiten
   - [Blogs](Blogartikel.txt)
 - [Foren](Foren.txt)
 - [Liveticker](Liveticker.txt)
@@ -15,7 +15,7 @@ Die Linksammlung wird derzeit in den folgenden Rubriken unterteilt:
 
 Außerdem:
 
-- [Übersichtsseiten](Übersichtsseiten.txt)
+- [Übersichtsseiten](Übersichtsseiten.md)
 - [Sonstiges / nicht klassifiziert](Sonstiges.txt)
 - [Tweets](Tweets.md) (externe Sammlung)
 

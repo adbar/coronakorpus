@@ -3,9 +3,6 @@ Blogartikel
 
 ### BLOGS-Sammelseiten
 
-// diese Blogs haben keine Themenseiten, aber die Suche nach "Corona" liefert viel:
-Allgemein: nachdenkseiten.de, dort nach "Corona" suchen, ca 50 Artikel bzw. Leserbriefe
-https://www.tichyseinblick.de/?s=Corona,  ca. 100 Artikel von verschiedene
 
 
 
@@ -26,7 +23,6 @@ https://www.achgut.com/artikel/bericht_zur_coronalage_vom_22.04.2020_worauf_wart
 
 https://blog.prif.org/2020/04/21/mit-der-corona-krise-in-eine-autoritaer-individualistische-zukunft-fuenf-dimensionen-gesellschaftlicher-transformation/
 
-https://uebermedien.de/48653/kriegsherren-erklaerbaeren-sunnyboys-maenner-fuer-die-krise/
 
 https://uepo.de/2020/04/23/anglizismen-aber-keine-hamster-metaphern-die-corona-terminologie-in-italien/
 https://uepo.de/2020/04/12/dr-isabel-rink-barrierefreie-kommunikation-ist-teil-des-corona-krisenmanagements/

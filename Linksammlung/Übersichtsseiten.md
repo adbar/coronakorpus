@@ -53,4 +53,6 @@ www.perlentaucher.de/stichwort/corona-tracing.html
 www.perlentaucher.de/stichwort/corona-virus.html
 www.perlentaucher.de/stichwort/coronavirus.html
 
+https://de.wikipedia.org/wiki/COVID-19-Pandemie // dort die Quellen durchsehen
 
+https://ethercalc.org/a58b750ffc67 [das ist selbst eine Linksammlung]
