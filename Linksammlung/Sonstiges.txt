@@ -1,10 +1,6 @@
 Sonstiges
 ---------
 
-
-
-
-
 https://www.oetk.at/news/coronavirus/fakten/
 https://www.oetk.at/news/coronavirus/begriffe/
 https://www.oetk.at/news/coronavirus/mythen/
@@ -17,6 +13,26 @@ https://www.oetk.at/news/coronavirus/schutzma%C3%9Fnahmen/
 https://www.oetk.at/news/coronavirus/ansteckung/
 
 
+MEDICO
+
+https://www.medico.de/eine-verlorene-generation-17675/
+https://www.medico.de/eine-politik-der-kaempfe-in-zeiten-der-pandemie-17674/
+
+
+DIE LINKE
+
+https://dielinke.berlin/corona/was-kann-ich-tun/
+https://dielinke.berlin/corona/
+https://dielinke.berlin/corona/was-kann-ich-tun/det/news/positionierung-zu-den-hygiene-demos/
+https://dielinke.berlin/corona/was-kann-ich-tun/det/news/keine-verlaengerung-der-sondererlaubnis-zur-ladenoeffnung-an-sonn-https://dielinke.berlin/corona/was-kann-ich-tun/det/news/wie-weiter-in-der-corona-krise/
+https://www.dielinke-mz.de/corona/
+https://www.dielinke-mz.de/corona/strom-und-wassersperren-stoppen/
+https://www.dielinke-mz.de/corona/
+https://www.dielinke-mz.de/corona/mietfreiheit-ermoeglichen/
+https://www.dielinke-mz.de/corona/keine-zwangsraeumungen-mieterhoehungen/
+
+
+
 
 
 https://www.sora.at/nc/news-presse/news/news-einzelansicht/news/corona-virus-dunkelziffer-1006.html
@@ -24,12 +40,33 @@ https://www.sora.at/nc/news-presse/news/news-einzelansicht/news/anteil-an-positi
 https://www.sora.at/nc/news-presse/news/news-einzelansicht/news/das-wechselspiel-von-relativ-und-absolut-1001.html
 https://www.sora.at/nc/news-presse/news/news-einzelansicht/news/was-wissen-wir-wirklich-1000.html
 https://www.sora.at/nc/news-presse/news/news-einzelansicht/news/flattening-the-curve-998.html
+https://www.dielinke-mz.de/corona/kunst-schuetzen/
+https://www.dielinke-mz.de/corona/risikogruppen-freistellen/
+https://www.dielinke-mz.de/corona/hygiene-am-arbeitsplatz/
+https://www.dielinke-mz.de/corona/plaetze-fuer-wohnungslose/
+https://www.dielinke-mz.de/corona/keine-fahrkartenkontrollen/
+https://www.dielinke-mz.de/corona/schulspeisung-erhalten/
+https://www.dielinke-mz.de/corona/mehr-plaetze-im-frauenhaus/
+https://www.dielinke-mz.de/corona/mietraeder-kostenlos/
+https://www.dielinke-mz.de/corona/hartz-iv-sanktionen-aufheben/
+https://www.dielinke-mz.de/corona/suchtkranke-versorgen/
+https://www.dielinke-mz.de/corona/sonntags-kein-verkauf/
+https://www.dielinke-mz.de/corona/maskenpflicht/
+https://www.dielinke-mz.de/corona/wohnungslosenheime-finanzieren/
+https://www.katja-kipping.de/de/article/1687.die-corona-krise-solidarisch-bew%C3%A4ltigen.html
+https://www.dielinke-mz.de/corona/barzahlung-erhalten/
+
+
+
+
+
 
 
 
 
 
 ANDERE
+
 https://www.manager-magazin.de/politik/weltwirtschaft/coronavirus-newsblog-aktuelle-entwicklung-am-mittwoch-a-1306769.html
 https://www.mittellaendische.ch/2020/04/07/covid-19-eine-zwischenbilanz-oder-eine-analyse-der-moral-der-medizinischen-fakten-sowie-der-aktuellen-und-zuk%C3%BCnftigen-politischen-entscheidungen/
 https://www.zdf.de/nachrichten/politik/coronavirus-kirchen-finanzhilfen-beduerftige-100.html
@@ -116,8 +153,7 @@ http://www.bmz.de/de/themen/corona/index.html
 
 https://ethercalc.org/a58b750ffc67 [das ist selbst eine Linksammlung]
 
-https://www.rki.de/DE/Content/Service/Publikationen/Fachwoerterbuch_Infektionsschutz.pdf?__blob=publicationFile
-https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html
+.html
 
 https://www.deutsche-familienversicherung.de/ratgeber/artikel/coronavirus-symptome-verlauf-behandlung/
 
@@ -156,9 +192,6 @@ https://www.ndr.de/nachrichten/info/Das-Glossar-zum-Corona-Podcast,podcastcorona
 
 https://www.mdr.de/nachrichten/ratgeber/reproduktionszahl-r-null-berechnung-bedeutung-hintergrund-100.html
 
-https://www.republik.ch/2020/04/16/so-funktioniert-eine-corona-tracing-app-die-ihre-privatsphaere-schuetzt
-https://gi.de/meldung/offener-brief-geplante-corona-app-ist-hoechst-problematisch
-https://www.management-krankenhaus.de/topstories/it-kommunikation/datenschutz-bei-corona-tracing-apps
 
 
 https://www.wienerzeitung.at/nachrichten/politik/oesterreich/2055477-FPOe-Politiker-tritt-nach-Corona-Party-zurueck.html
@@ -167,6 +200,7 @@ https://www.onvista.de/news/teilnehmer-kanzlerin-sehr-besorgt-ueber-oeffnungsdeb
 https://www.landtag-bw.de/home/aktuelles/pressemitteilungen/2020/april/382020.html
 https://www.rnd.de/gesundheit/richtig-tragen-und-reinigen-5-tipps-rund-um-die-alltagsmaske-FKRO7XFOZHZH5YMLZUFYK7NF5E.html
 https://l-blog.de/wer-traegt-die-schoenste-maske-in-leipzig/
+https://mobil.aufbaubank.de/Presse-Aktuelles/Coronavirus-Aktuelle-Informationen-fuer-Unternehmen/Corona-FAQ
 
 
 https://www.dw.com/de/coronavirus-zahlenwust-was-bedeuten-all-die-zahlen/a-52791358
