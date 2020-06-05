@@ -55,4 +55,16 @@ www.perlentaucher.de/stichwort/coronavirus.html
 
 https://de.wikipedia.org/wiki/COVID-19-Pandemie // dort die Quellen durchsehen
 
+https://www.bernerzeitung.ch/wissen/coronavirus
+https://www.capital.de/?s=corona
+https://www.boell.de/de/die-corona-pandemie
+https://www.labournet.de/?s=corona&orderby=post_date&order=desc
+
+https://www.republik.ch/top-storys
+
+
+
 https://ethercalc.org/a58b750ffc67 [das ist selbst eine Linksammlung]
+
+
+
