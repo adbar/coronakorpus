@@ -1,14 +1,8 @@
 
 GESUNDHEIT
 
-https://www.stiftung-gesundheitswissen.de/presse/wie-umgehen-mit-corona
-https://www.stiftung-gesundheitswissen.de/wissen/adipositas/folgeerkrankungen
-https://www.stiftung-gesundheitswissen.de/gesundes-leben/kompetenz-gesundheit/corona-maskenpflicht-was-sie-jetzt-wissen-muessen
-https://www.stiftung-gesundheitswissen.de/gesundes-leben/patient-arzt/kommt-bald-die-online-sprechstunde
-https://www.stiftung-gesundheitswissen.de/presse/mit-masernschutz-sicher-in-die-kitabetreuung
-https://www.stiftung-gesundheitswissen.de/gesundes-leben/koerper-wissen/viren-oder-bakterien-wo-ist-der-unterschied
-https://www.stiftung-gesundheitswissen.de/wissen/erkaeltung/hintergrund
-https://corona.share-to-care.de/
+
+
 https://wissenwaswirkt.org/covid-19-seife-und-weitere-hygienemassnahmen-evidenz-aus-cochrane-reviews
 https://wissenwaswirkt.org/covid-19-jetzt-den-rauchstopp-wagen
 https://wissenwaswirkt.org/was-bringen-quarantaenemassnahmen-gegen-covid-19-ein-neuer-cochrane-rapid-review-sucht-nach-antworten
@@ -20,8 +14,32 @@ https://www.krebsinformationsdienst.de/leben/alltag/coronavirus-krebs-haeufige-f
 https://www.lungeninformationsdienst.de/aktuelles/schwerpunktthemen/coronavirus-2019/index.html
 https://www.rheuma-liga.de/aktuelles/detailansicht/coronavirus-infos-fuer-menschen-mit-rheuma
 https://www.medizin-transparent.at/coronavirus-fakten
+https://www.dccv.de/betroffene-angehoerige/leben-mit-einer-ced/infektionskrankheitenimpfen/coronavirus/
+
+STIFTUNG GESUNDHEITSWISSEN
+
+https://www.stiftung-gesundheitswissen.de/presse/wie-umgehen-mit-corona
+https://www.stiftung-gesundheitswissen.de/wissen/adipositas/folgeerkrankungen
+https://www.stiftung-gesundheitswissen.de/gesundes-leben/kompetenz-gesundheit/corona-maskenpflicht-was-sie-jetzt-wissen-muessen
+https://www.stiftung-gesundheitswissen.de/presse/wie-umgehen-mit-corona
+https://www.stiftung-gesundheitswissen.de/gesundes-leben/kompetenz-gesundheit/corona-maskenpflicht-was-sie-jetzt-wissen-muessen
+https://www.stiftung-gesundheitswissen.de/gesundes-leben/patient-arzt/kommt-bald-die-online-sprechstunde
+https://www.stiftung-gesundheitswissen.de/presse/mit-masernschutz-sicher-in-die-kitabetreuung
+https://www.stiftung-gesundheitswissen.de/gesundes-leben/koerper-wissen/viren-oder-bakterien-wo-ist-der-unterschied
+https://www.stiftung-gesundheitswissen.de/wissen/erkaeltung/hintergrund
+https://www.stiftung-gesundheitswissen.de/gesundes-leben/patient-arzt/kommt-bald-die-online-sprechstunde
+https://www.stiftung-gesundheitswissen.de/presse/mit-masernschutz-sicher-in-die-kitabetreuung
+https://www.stiftung-gesundheitswissen.de/gesundes-leben/koerper-wissen/viren-oder-bakterien-wo-ist-der-unterschied
+https://www.stiftung-gesundheitswissen.de/wissen/erkaeltung/hintergrund
+https://corona.share-to-care.de/
 
 
+MYTHERAPY
+
+https://www.mytherapyapp.com/de/blog/ced-coronavirus
+https://www.mytherapyapp.com/de/blog/coronavirus-diabetes
+https://www.mytherapyapp.com/de/blog/coronavirus-rheuma-tipps
+https://www.mytherapyapp.com/de/blog/coronavirus-multiple-sklerose
 
 
 

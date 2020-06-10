@@ -71,6 +71,40 @@ https://www.ndr.de/nachrichten/schleswig-holstein/Coronavirus-Landtag-dankt-Held
 https://www.ndr.de/nachrichten/hamburg/Corona-Home-Office-in-Hamburger-Unternehmen,homeoffice112.html
 
 
+SR
+
+https://www.sr.de/sr/home/nachrichten/panorama/corona_sonnenbergklinik_quarantaene_100.html
+https://www.sr.de/sr/home/nachrichten/panorama/corona_einsamkeit_telefonseelsorge_saar_100.html
+https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/corona_neue_rechtsverordnung_in_kraft_100.html
+https://www.sr.de/sr/home/nachrichten/panorama/corona_virus_dossier_service_100.html
+https://www.sr.de/sr/home/nachrichten/panorama/corona_antikoerperstudie_100.html
+https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/interview_corona_covid_dr_custodis_dr_zimmermann_saarbruecken_100.html
+https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/hygienepauschale_restaurants_friseure_saarland_100.html
+https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/20200324_bleiben_sie_zuhause_neapel_100.html
+https://www.sr.de/sr/home/nachrichten/faq_diy_schutzmasken_corona_100.html
+https://www.sr.de/sr/sr1/programm/themen/corona_maske_brille_tipps_100.html
+https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/kontaktbeschraenkungen_bis_fuenften_juli_100.html
+https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/coronafreie_kommunen_saarland_102.html
+https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/corona_keine_lockerungen_grand_est_100.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -81,6 +115,7 @@ https://gross-umstadt.de/de/1584344616-ladadi-schnuert-massnahmenpaket-corona-ze
 
 DEUTSCHE WELLE
 
+https://www.dw.com/de/who-zeitfenster-im-corona-kampf-schlie%C3%9Ft-sich/a-52469974
 https://www.dw.com/de/erste-corona-todesf%C3%A4lle-in-deutschland/a-52597027
 https://www.dw.com/de/viele-corona-tote-in-wolfsburger-pflegeheim/a-52948852
 https://www.dw.com/de/corona-live-ticker-vom-27-m%C3%A4rz-milliarden-hilfspaket-tritt-in-deutschland-in-kraft/a-52934252-0
@@ -315,6 +350,8 @@ https://www1.wdr.de/nachrichten/erste-corona-infektion-nrw100.html
 
 RBB
 
+
+https://www.rbb24.de/panorama/thema/2020/coronavirus/beitraege/coronavirus-berlin-person-positiv-auf-covid-19-getestet.html
 https://www.rbb24.de/politik/thema/2020/coronavirus/beitraege_neu/2020/04/pop-up-radweg-radsspur-verkehrswende-verkehr-berlin.html
 https://www.rbb24.de/politik/thema/2020/coronavirus/beitraege/berlin-brandenburg-abitur-pruefungen-stattfinden-kultusminister.html
 https://www.rbb24.de/panorama/thema/2020/coronavirus/beitraege/chronik-coronik-ausbruch-coronavirus-pandemie-rueckblick-timeline-berlin-brandenburg.html
@@ -428,6 +465,7 @@ https://www.n-tv.de/technik/EU-setzt-Richtlinien-fuer-Corona-Tracing-Apps-articl
 
 ZDF
 
+https://www.zdf.de/nachrichten/panorama/coronavirus-deutschland-trump-100.html
 https://www.zdf.de/nachrichten/politik/us-corona-krise-verschaerft-sich-totenzahl-uebersteigt-die-in-china-100.html
 https://www.zdf.de/nachrichten/politik/corona-gesetze-eiltempo-bundestag-100.html
 https://www.zdf.de/nachrichten/politik/merkel-spahn-corona-100.html
