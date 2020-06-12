@@ -1,5 +1,5 @@
-https://netzpolitik.org/2020/covid-19-verschaerft-die-ueberwachung-am-arbeitsplatz/
-https://netzpolitik.org/2020/diese-handy-technologie-soll-covid-19-ausbremsen/
+https://netzpolitik.org/2012/lockdown-the-coming-war-on-general-purpose-computing/
+https://netzpolitik.org/2016/fcc-keine-entwarnung-router-lockdown/
 https://netzpolitik.org/2020/apple-und-google-schaffen-globalen-standard/
 https://netzpolitik.org/2020/beweist-corona-die-notwendigkeit-oeffentlich-rechtlicher-medien/
 https://netzpolitik.org/2020/bundesregierung-empfiehlt-app-standard-fuer-anonymes-corona-tracing/
@@ -9,13 +9,17 @@ https://netzpolitik.org/2020/corona-app-niemand-muss-alle-sollen/
 https://netzpolitik.org/2020/corona-cyber-crime-compilation/
 https://netzpolitik.org/2020/corona-tracking-datenschutz-kein-notwendiger-widerspruch/
 https://netzpolitik.org/2020/coronavirus-listen-der-niedersaechsischen-polizei-sind-illegal/
+https://netzpolitik.org/2020/covid-19-verschaerft-die-ueberwachung-am-arbeitsplatz/
 https://netzpolitik.org/2020/das-netz-gegen-die-krise/
 https://netzpolitik.org/2020/datenjournalistinnen-fordern-offene-corona-daten/
 https://netzpolitik.org/2020/daten-von-infizierten-polizei-sammelt-in-mehreren-bundeslaendern-coronavirus-listen/
 https://netzpolitik.org/2020/der-kampf-gegen-den-online-wucher-mit-der-angst/
 https://netzpolitik.org/2020/die-corona-app-ihres-vertrauens/
+https://netzpolitik.org/2020/diese-handy-technologie-soll-covid-19-ausbremsen/
 https://netzpolitik.org/2020/ein-fieberthermometer-fuer-deutschland/
 https://netzpolitik.org/2020/es-gibt-noch-eine-andere-pandemie-und-es-ist-eine-ideologische/
+https://netzpolitik.org/2020/eu-abgeordnete-hinterfragen-contact-tracing/
+https://netzpolitik.org/2020/europa-gespalten-bei-contact-tracing-apps/
 https://netzpolitik.org/2020/faq-corona-apps-die-wichtigsten-fragen-und-antworten-zur-digitalen-kontaktverfolgung-contact-tracing-covid19-pepppt-dp3t/
 https://netzpolitik.org/2020/forscherinnen-warnen-kontaktverfolgung-koenne-zur-ueberwachung-missbraucht-werden/
 https://netzpolitik.org/2020/geruechte-fake-news-und-voreilige-wissenschaft-in-corona-zeiten/
@@ -39,9 +43,8 @@ https://netzpolitik.org/2020/warum-wir-ein-corona-tracing-gesetz-brauchen/
 https://netzpolitik.org/2020/was-die-corona-pandemie-fuer-die-frequenzpolitik-bedeutet/
 https://netzpolitik.org/2020/wenn-die-eltern-ploetzlich-an-verschwoerungstheorien-glauben-corona-pandemie/
 https://netzpolitik.org/2020/wer-gemeinnuetzig-gegen-corona-hilft-bekommt-kein-geld/
+https://netzpolitik.org/2020/why-is-contact-tracing-useful/
 https://netzpolitik.org/2020/wie-das-coronavirus-journalistinnen-auf-die-probe-stellt/
 https://netzpolitik.org/2020/wie-sich-die-debatte-um-corona-tracing-aendern-muss/
 https://netzpolitik.org/2020/wie-wir-arbeiten-in-der-corona-krise/
-https://netzpolitik.org/2020/normalitaetsversprechen-via-blockchain/
-https://netzpolitik.org/2012/lockdown-the-coming-war-on-general-purpose-computing/
-https://netzpolitik.org/2016/fcc-keine-entwarnung-router-lockdown/
+

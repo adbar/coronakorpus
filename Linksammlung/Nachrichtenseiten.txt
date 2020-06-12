@@ -71,6 +71,26 @@ https://www.ndr.de/nachrichten/schleswig-holstein/Coronavirus-Landtag-dankt-Held
 https://www.ndr.de/nachrichten/hamburg/Corona-Home-Office-in-Hamburger-Unternehmen,homeoffice112.html
 
 
+SR
+
+https://www.sr.de/sr/home/nachrichten/panorama/corona_sonnenbergklinik_quarantaene_100.html
+https://www.sr.de/sr/home/nachrichten/panorama/corona_einsamkeit_telefonseelsorge_saar_100.html
+https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/corona_neue_rechtsverordnung_in_kraft_100.html
+https://www.sr.de/sr/home/nachrichten/panorama/corona_virus_dossier_service_100.html
+https://www.sr.de/sr/home/nachrichten/panorama/corona_antikoerperstudie_100.html
+https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/interview_corona_covid_dr_custodis_dr_zimmermann_saarbruecken_100.html
+https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/hygienepauschale_restaurants_friseure_saarland_100.html
+https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/20200324_bleiben_sie_zuhause_neapel_100.html
+https://www.sr.de/sr/home/nachrichten/faq_diy_schutzmasken_corona_100.html
+https://www.sr.de/sr/sr1/programm/themen/corona_maske_brille_tipps_100.html
+https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/kontaktbeschraenkungen_bis_fuenften_juli_100.html
+https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/coronafreie_kommunen_saarland_102.html
+https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/corona_keine_lockerungen_grand_est_100.html
+
+
+
+
+
 HESSENSCHAU
 
 https://www.hessenschau.de/sport/handball/positiver-corona-test-bei-hessischem-handball-nationalspieler-jannik-kohlbacher,coronabeikohlbacher-100.html
@@ -206,6 +226,10 @@ https://www.tagesschau.de/inland/coronavirus-karte-deutschland-101.html
 https://www.tagesschau.de/inland/merkel-regierungserklaerung-corona-103.html
 https://www.tagesschau.de/ausland/brasilien-coronakrise-101.html
 https://www.tagesschau.de/ausland/schweden-corona-studienpannen-101.html
+https://www.tagesschau.de/wirtschaft/verbrauchsgueter-coronakrise-101.html
+https://www.tagesschau.de/inland/krankenkassen-massentests-101.html
+https://www.tagesschau.de/inland/corona-koalition-101.html
+https://www.tagesschau.de/wirtschaft/eu-corona-hilfen-faq-101.html
 https://www.tagesschau.de/wirtschaft/ifo-institut-corona-stellenabbau-101.html
 https://www.tagesschau.de/wirtschaft/boerse/daimler-193.html
 https://www.tagesschau.de/ausland/corona-ramadan-105.html
@@ -215,10 +239,10 @@ WDR
 https://www1.wdr.de/nachrichten/themen/coronavirus/coronawatch/faktencheck-coronawatch-muecken-uebertragung-coronavirus-100.html
 https://www1.wdr.de/nachrichten/themen/coronavirus/coronawatch/faktencheck-corona-virus-mutation-100.html
 https://www1.wdr.de/nachrichten/themen/coronavirus/coronawatch/faktencheck-corona-gurgeln-100.html
-@@ -29,7 +310,233 @@ https://www1.wdr.de/nachrichten/themen/coronavirus/coronawatch/faktencheck-schnu
+https://www1.wdr.de/nachrichten/themen/coronavirus/coronawatch/faktencheck-corona-labor-zuechtung-100.html
+https://www1.wdr.de/nachrichten/themen/coronavirus/coronawatch/faktencheck-schnupfen-anzeichen-corona-infektion-100.html
 https://www1.wdr.de/nachrichten/themen/coronavirus/coronawatch/faktencheck-kettenbrief-luftanhalten-corona-100.html
 https://www1.wdr.de/nachrichten/themen/coronavirus/coronawatch/coronawatch-hitzeempfindlichkeit-102.html
-https://p.dw.com/p/3aE0f 
 https://www1.wdr.de/nachrichten/erste-corona-infektion-nrw100.html
 
 
@@ -337,6 +361,7 @@ https://www.n-tv.de/technik/EU-setzt-Richtlinien-fuer-Corona-Tracing-Apps-articl
 
 ZDF
 
+https://www.zdf.de/nachrichten/panorama/coronavirus-deutschland-trump-100.html
 https://www.zdf.de/nachrichten/politik/us-corona-krise-verschaerft-sich-totenzahl-uebersteigt-die-in-china-100.html
 https://www.zdf.de/nachrichten/politik/corona-gesetze-eiltempo-bundestag-100.html
 https://www.zdf.de/nachrichten/politik/merkel-spahn-corona-100.html
@@ -510,7 +535,8 @@ https://www.deutschlandfunk.de/covid-19-coronavirus-was-man-zu-schutzmasken-wiss
 https://www.deutschlandfunk.de/covid-19-wirtschaftsfoerderung-in-corona-zeiten-gruen-oder.1939.de.html?drn:news_id=1125457
 https://www.deutschlandfunk.de/covid-19-was-eine-rezession-wegen-des-coronavirus-fuer.1939.de.html?drn:news_id=1125467
 https://www.deutschlandfunk.de/covid-19-wie-lange-sich-das-coronavirus-auf-oberflaechen.1939.de.html?drn:news_id=1125466
-
+http://www.deutschlandfunk.de/coronavirus-drosten-betont-gefahr-durch-aerosole.1939.de.html?drn:news_id=1134069
+http://www.deutschlandfunk.de/virologe-drosten-zu-aerosol-uebertragung-im-alltag-eher.694.de.html?dram:article_id=477312
 
 
 ANDERE

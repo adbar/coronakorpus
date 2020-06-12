@@ -39,6 +39,8 @@ https://www.gruenderlexikon.de/news/kurz-notiert/kinderbetreuung-in-der-coronakr
 
 https://www.tichyseinblick.de/?s=Corona
 
+https://www.jugendkulturservice.de/de/aktuelles/zuhaus2020.php#anchor_9c7198a7_Accordion-Corona-Zeiten--Wo-gibt-es-jetzt-Beratung-fuer-Eltern
+
 http://wirtschaftlichefreiheit.de/wordpress/?tag=corona
 
 https://the-syllabus.com/coronavirus-readings/
@@ -62,9 +64,36 @@ https://www.labournet.de/?s=corona&orderby=post_date&order=desc
 
 https://www.republik.ch/top-storys
 
+https://www.manager-magazin.de/thema/coronavirus/archiv.html
+https://www.adac.de/suche/suchergebnisse/?q=corona
+https://www.aerointernational.de/tag/corona
+https://www.bund-verlag.de/suche/?origin=BV&scopes=&term=corona
+https://www.backspin.de/?s=corona
+https://bergsteiger.de/search/node/corona
+https://juice.de/?s=corona
+https://www.brandeins.de/suche?term=corona
+https://www.stern.de/gesundheit/corona/
+https://www.vice.com/de/search?q=corona
+https://www.theeuropean.de/?s=corona
+https://www.nachtkritik.de/index.php?searchword=corona&searchphrase=all&Itemid=60&option=com_search
 
 
 https://ethercalc.org/a58b750ffc67 [das ist selbst eine Linksammlung]
 
 
+URL-Fragmente
 
+corona
+coronavirus
+pandemie
+covid
+fauci
+lockdown
+antikoerpertests
+maskenpflicht
+distancing
+tracing
+drosten
+reproduktionszahl
+immunität
+wuhan
