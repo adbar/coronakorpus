@@ -2,7 +2,7 @@ Material zum Aufbau eines deutschsprachigen COVID-19-Webkorpus
 --------------------------------------------------------------
 
 
-Diese Linksammlung fokussiert deutschsprachige Webseiten zur COVID-19-Pandemie (u.a. mit erkenntnistheoretischer, gesellschaftlicher, politischer und wirtschaftlicher Perspektive) und zum Virus (u.a. aus medizinischer Sicht).
+Diese Linksammlung fokussiert auf deutschsprachige Webseiten zur COVID-19-Pandemie (u.a. mit erkenntnistheoretischer, gesellschaftlicher, politischer und wirtschaftlicher Perspektive) und zum Virus (u.a. aus medizinischer Sicht).
 
 
 Die folgenden Kriterien werden beachtet, um ein Gleichgewicht zwischen den Quellen zu erzeugen, damit das Korpus vielfältig/vielschichtig und grob nach Quelle/Land und bestmöglich nach Genre ausgewogen werden kann.
@@ -14,7 +14,7 @@ Die folgenden Kriterien werden beachtet, um ein Gleichgewicht zwischen den Quell
 
 Auf Basis des zusammengetragenen Materials wird eine Sammlung von Webdokumenten erstellt, die im Anschluss der Öffentlichkeit zugänglich gemacht wird:
 
-- Das linguistisch aufbereitete Korpus kann online abgefragt werden: [dwds.de](https://www.dwds.de/d/k-web#corona) (nach einer einfachen Anmeldung / bisher nur intern verfügbar).
+- Das linguistisch aufbereitete Korpus kann online abgefragt werden: [dwds.de](https://www.dwds.de/d/k-web#corona) (nach einer einfachen Anmeldung).
 - Die Quellen können auch heruntergeladen und verarbeitet werden:
   - [Tutorial: Gathering a custom web corpus](https://trafilatura.readthedocs.io/en/latest/tutorial0.html).
   - [Tutorial: DWDS-Korpusdaten reproduzieren](https://trafilatura.readthedocs.io/en/latest/tutorial-dwds.html)
@@ -23,8 +23,12 @@ Es ist uns wichtig, das Korpus so umfangreich und belastbar wie möglich zu gest
 
 Letzter Stand: ca. 78000 Links, November 2020.
 
+**N.B.:** Nachfolger dieses Korpus ist ein Monitorkorpus aus Hunderten von Webquellen, der [Webmonitor](https://www.dwds.de/d/korpora/webmonitor).
+
+
 
 ### Kontext
+
 
 [Zentrum für digitale Lexikographie der deutschen Sprache (ZDL)](https://www.zdl.org/), [Berlin-Brandenburgische Akademie der Wissenschaften](https://www.bbaw.de/).
 
